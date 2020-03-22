@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+    background-color: #BDBDBD;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#name {
+    position: absolute;
+    z-index: 10;
+    margin-top: 235px;
+    margin-left: 360px;
+}
+#forming{
+    width:500px;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+}
+#centering{
+    margin-left: 35%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
